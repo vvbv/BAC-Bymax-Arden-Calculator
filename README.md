@@ -1,5 +1,5 @@
 # BAC-Bymax-Arden-Calculator 
-[![(simple build status)](https://img.shields.io/teamcity/http/teamcity.jetbrains.com/s/bt345.svg)]()
+[![(simple build status)](https://img.shields.io/badge/State-Alpha-red.svg)]()
 
 Example:
 
