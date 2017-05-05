@@ -1,9 +1,10 @@
 # BAC-Bymax-Arden-Calculator 
 [![(simple build status)](https://img.shields.io/teamcity/http/teamcity.jetbrains.com/s/bt345.svg)]()
 
-Example: S = aS + 0T + $(epsilon) + #(void)
+Example:
 
 ```JAVA
+        /*$(epsilon) + #(void)*/
 
         Arden arden = new Arden();
         ArrayList <Character> simbolos = new ArrayList<>();
